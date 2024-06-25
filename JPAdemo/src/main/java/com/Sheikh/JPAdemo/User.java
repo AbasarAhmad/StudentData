@@ -36,6 +36,7 @@ public class User {// Table name will be User
         this.rollNo = rollNo;
     }
 
+
     public String getName() {
         return name;
     }
